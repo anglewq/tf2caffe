@@ -1,6 +1,6 @@
-cmake_read:¿ÉÒÔ½«Ò»¸öcaffemodel×ª»»³ÉtxtÎÄ¼ş£»ÔÚcaffeÄ¿Â¼Àï cmake .   make
-camke_write:½«prototxt×ª»»³Écaffemodel
-out_data.py:½«tensorflowmodelÊı¾İ°´²ãĞ´³ö
-seg_layers.py:½«train.prototxt°´²ãĞ´µ½¸÷¸öÎÄ¼şÀï
-data_mod.py:ÎªÁËÔÚÊı¾İÎÄ¼ş×îºóÒ»ĞĞÌí¼Ó ¡°}¡±
-ss.sh:½«layerºÍdataĞ´µ½Ò»¸ömodel.prototxt
+- cmake_read:å¯ä»¥å°†ä¸€ä¸ªcaffemodelè½¬æ¢æˆtxtæ–‡ä»¶ï¼›åœ¨caffeç›®å½•é‡Œ cmake .   make
+- camke_write:å°†prototxtè½¬æ¢æˆcaffemodel
+- out_data.py:å°†tensorflowmodelæ•°æ®æŒ‰å±‚å†™å‡º
+- seg_layers.py:å°†train.prototxtæŒ‰å±‚å†™åˆ°å„ä¸ªæ–‡ä»¶é‡Œ
+- data_mod.py:ä¸ºäº†åœ¨æ•°æ®æ–‡ä»¶æœ€åä¸€è¡Œæ·»åŠ  â€œ}â€
+- ss.sh:å°†layerå’Œdataå†™åˆ°ä¸€ä¸ªmodel.prototxt
